@@ -1823,7 +1823,7 @@ body {
 .cid-srMNtIrCvx {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/whatsapp-image-2021-03-18-at-1.38.35-pm-1440x960.jpg");
+  background-image: url("../../../assets/images/pexels-andre-furtado-370717-4-2000x1333.jpg");
 }
 .cid-srMNtIrCvx .icons-media-container {
   display: flex;
@@ -1847,6 +1847,13 @@ body {
 }
 .cid-srMNtIrCvx .card {
   padding-bottom: 1.5rem;
+}
+.cid-srMNtIrCvx .mbr-text,
+.cid-srMNtIrCvx .mbr-section-btn {
+  color: #232323;
+}
+.cid-srMNtIrCvx H1 {
+  color: #ffffff;
 }
 .cid-srMRCnyKjQ {
   padding-top: 60px;
@@ -1916,32 +1923,48 @@ body {
 .cid-srMRCnyKjQ .panel-text {
   color: #232323;
 }
-.cid-srMX2wsRZp {
-  padding-top: 45px;
+.cid-ss3quUKcAb {
+  padding-top: 90px;
   padding-bottom: 90px;
   background-color: transparent;
 }
-.cid-srMX2wsRZp div.b {
-  padding-top: 2rem;
+.cid-ss3quUKcAb .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
 }
-.cid-srMX2wsRZp .mbr-text {
+.cid-ss3quUKcAb .icon-block {
+  margin-bottom: 10px;
+}
+.cid-ss3quUKcAb .icon-block .icon-block__icon {
+  display: inline-block;
+  vertical-align: middle;
+}
+.cid-ss3quUKcAb .icon-block .icon-block__title {
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 0;
+  line-height: 1;
+  font-style: italic;
+}
+.cid-ss3quUKcAb .mbr-text {
   color: #232323;
-  margin: 0;
-  padding-top: 1.5rem;
 }
-.cid-srMX2wsRZp a:not([href]):not([tabindex]) {
+.cid-ss3quUKcAb textarea.form-control {
+  min-height: 100px;
+}
+.cid-ss3quUKcAb a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-srMX2wsRZp .google-map {
-  height: 25rem;
+.cid-ss3quUKcAb .google-map {
+  height: 33rem;
   position: relative;
 }
-.cid-srMX2wsRZp .google-map iframe {
+.cid-ss3quUKcAb .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-srMX2wsRZp .google-map [data-state-details] {
+.cid-ss3quUKcAb .google-map [data-state-details] {
   color: #6b6763;
   font-family: Montserrat;
   height: 1.5em;
@@ -1953,25 +1976,24 @@ body {
   top: 50%;
   width: 100%;
 }
-.cid-srMX2wsRZp .google-map[data-state] {
+.cid-ss3quUKcAb .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-srMX2wsRZp .google-map[data-state="loading"] [data-state-details] {
+.cid-ss3quUKcAb .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-srMX2wsRZp div.left-block.wrapper {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-}
 @media (max-width: 767px) {
-  .cid-srMX2wsRZp div.left-block.wrapper {
-    padding-bottom: 3rem;
+  .cid-ss3quUKcAb h2 {
+    padding-top: 2rem;
   }
 }
-.cid-srMX2wsRZp H2 {
-  color: #f78b00;
+@media (min-width: 768px) {
+  .cid-ss3quUKcAb .container > .row > .col-md-6:first-child {
+    padding-right: 30px;
+  }
+  .cid-ss3quUKcAb .container > .row > .col-md-6:last-child {
+    padding-left: 30px;
+  }
 }
 .cid-srMVxOLVtN {
   padding-top: 90px;
